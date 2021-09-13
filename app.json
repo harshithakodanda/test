@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "My Finance Wellness",
+    "slug": "MFW",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "mfw",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.indcamb.myfinancewellness"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.indcamb.myfinancewellness",
+      "versionCode": 6
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "description": "",
+    "githubUrl": "https://github.com/"
+  }
+}

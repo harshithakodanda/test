@@ -1,0 +1,28 @@
+export const production = {
+  GetCashbook:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/Cashbook/",
+  GetDashBoard:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/Dashboard/1",
+  PostCashBook:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/Cashbook/",
+  GetEnterpriseAssessment:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/EnterpriseAssessment",
+  PostEnterpriseAssessment:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/EnterpriseAssessment",
+  GetFinanceWellness:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/FinanceWellness/",
+  GetEducation:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/Education",
+  GetEducationVideo:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/Education",
+  GetUserProfile:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/UserProfile/",
+  PostUserProfile:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/UserProfile",
+  GetDailyReport:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/Report/GetDailyReport",
+  GetGLReport:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/Report/GetGLReport",
+    GetDailyBalance:
+    "https://b98iwnpcah.execute-api.ap-south-1.amazonaws.com/dev/api/Report/GetDailyBalance"
+};
